@@ -1,7 +1,6 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
 <div align="center">
 
-# 🚀 AI-Powered Web3 Safety Learning Assistant
 
 [![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
 
