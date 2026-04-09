@@ -1,10 +1,13 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
 
-<!-- 图片描述：项目平台首页，完整呈现“Check the Contract, Learn the Risk”核心教育理念，集成零门槛合约上传分析入口、香港本地Web3风险数据看板，以及面向公众的全维度Web3安全学习交互门户。 -->
+
 <div align="center">
-  <img style="width: 80%; height: auto;" alt="平台首页" src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />
+  <img style="width: 80%; height: auto; border-radius: 8px;" 
+       alt="平台首页" 
+       src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />
+  <br>
+  <em>Picture description: The homepage of the project platform fully presents the core educational concept of "Check the Contract, Learn the Risk". It includes a zero-threshold contract upload analysis portal, a Hong Kong local Web3 risk data dashboard, and a comprehensive Web3 security learning interactive portal for the public.</em>
 </div>
-Picture description: The homepage of the project platform fully presents the core educational concept of "check contracts and understand risks", including a zero-trade contract upload analysis portal, a Hong Kong local Web3 risk data dashboard, and a comprehensive Web3 security learning interactive portal for the public.
 
 This repository contains the working files, scanning pipeline, dataset artifacts, and experiment scripts for an AI+Education project focused on Web3 safety learning and public awareness.
 
