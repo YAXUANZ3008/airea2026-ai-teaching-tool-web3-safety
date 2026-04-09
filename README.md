@@ -1,8 +1,9 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
 
+📺 **Platform Demo Video**: [AI-Powered Web3 Safety Learning Assistant - Full Walkthrough]([sslocal://flow/file_open?url=%7BYOUTUBE_VIDEO_LINK%7D&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=](https://youtu.be/lC42QAteeN8))
 
 <div align="center">
-  <img style="width: 80%; height: auto; border-radius: 8px;" 
+  <img style="width: 60%; height: auto; border-radius: 8px;" 
        alt="平台首页" 
        src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />
   <br>
@@ -36,7 +37,7 @@ The scanning layer is only one part of the project. The broader product directio
 
 
 <div align="center">
-  <img style="width: 80%; height: auto; border-radius: 8px;" 
+  <img style="width: 60%; height: auto; border-radius: 8px;" 
        alt="Web3 Safety Education Hub Page" 
        src="https://github.com/user-attachments/assets/7efc09c1-6d9d-422a-b05b-e36621a601fb" />
   <br>
@@ -58,7 +59,7 @@ The scanning layer is only one part of the project. The broader product directio
 ## Architecture Overview
 
 <div align="center">
-  <img style="width: 80%; height: auto; border-radius: 8px;" 
+  <img style="width: 60%; height: auto; border-radius: 8px;" 
        alt="Project Core System Architecture Flow Chart" 
        src="https://github.com/user-attachments/assets/f2299921-da58-42e4-8a96-9867af20e3c3" />
   <br>
@@ -76,7 +77,7 @@ The intended product layer is an education-oriented interface that helps users:
 
 
 <div align="center">
-  <img style="width: 80%; height: auto; border-radius: 8px;" 
+  <img style="width: 60%; height: auto; border-radius: 8px;" 
        alt="Risk-Free Scan Results Educational Explanation Page" 
        src="https://github.com/user-attachments/assets/e6e73359-03de-4243-bb31-b73e28d42d28" />
   <br>
@@ -85,7 +86,7 @@ The intended product layer is an education-oriented interface that helps users:
 
 
 <div align="center">
-  <img style="width: 80%; height: auto; border-radius: 8px;" 
+  <img style="width: 60%; height: auto; border-radius: 8px;" 
        alt="Risk-Free Scan Results Overview Interface" 
        src="https://github.com/user-attachments/assets/1cd3f41b-a2b2-4b19-a4cb-ca8dc890a476" />
   <br>
@@ -94,7 +95,7 @@ The intended product layer is an education-oriented interface that helps users:
 
 
 <div align="center">
-  <img style="width: 80%; height: auto; border-radius: 8px;" 
+  <img style="width: 60%; height: auto; border-radius: 8px;" 
        alt="High-Risk Scan Results Overview Interface" 
        src="https://github.com/user-attachments/assets/4bde4abc-a18d-46cb-abbd-48dea872b7a0" />
   <br>
