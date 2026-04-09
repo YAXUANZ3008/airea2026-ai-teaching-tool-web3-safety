@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>🎥 点击上方图片观看完整演示 | AI-Powered Web3 Safety Learning Assistant</b>
+  <b>🎥 Click the thumbnail to watch the demo on YouTube | AI-Powered Web3 Safety Learning Assistant</b>
 </p>
 
 <div align="center">
