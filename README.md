@@ -19,7 +19,9 @@ In practical terms, this repo combines:
 </div>
 
 <div align="center">
-[![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
+  
+  [![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
+  
 </div>
 
 ## Project Positioning
