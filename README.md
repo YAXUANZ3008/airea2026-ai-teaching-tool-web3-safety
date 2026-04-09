@@ -1,5 +1,8 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
 
+<img width="2110" height="1338" alt="9de10bec504c964e991b28f12ec60e9" src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />
+Picture description: The homepage of the project platform fully presents the core educational concept of "check contracts and understand risks", including a zero-trade contract upload analysis portal, a Hong Kong local Web3 risk data dashboard, and a comprehensive Web3 security learning interactive portal for the public.
+
 This repository contains the working files, scanning pipeline, dataset artifacts, and experiment scripts for an AI+Education project focused on Web3 safety learning and public awareness.
 
 The project itself is **not named GPTScan**.  
@@ -11,8 +14,6 @@ In practical terms, this repo combines:
 - local dataset experiments for validating scan coverage and result quality
 
 ## Project Positioning
-
-<img width="2543" height="1283" alt="image" src="https://github.com/user-attachments/assets/d91f0293-2797-48df-9a3c-47b67c449c40" />
 
 This project was built as an **AI + Education prototype** rather than a production platform.
 
@@ -27,6 +28,10 @@ The scanning layer is only one part of the project. The broader product directio
 - general public users
 - safety education scenarios
 
+
+<img width="3420" height="2146" alt="3a860bd0e57f2f59e6693d7f8e187c7" src="https://github.com/user-attachments/assets/7efc09c1-6d9d-422a-b05b-e36621a601fb" />
+Picture description: The Web3 Safety Education Hub page displays hierarchical educational resource modules for three core groups of students, educators, and Hong Kong citizens. It reflects the project's universal and differentiated Web3 safety education system design and is the core carrier of the project's education function.
+
 ## What This Repo Includes
 
 - local smart contract scanning workflows
@@ -34,8 +39,14 @@ The scanning layer is only one part of the project. The broader product directio
 - failed-project rerun utilities
 - extracted successful sample sets
 - project materials generated during prototyping and evaluation
+- education-oriented front-end interface prototype files
+- bilingual plain-language risk explanation templates for public education scenarios
+- hierarchical teaching resources for students, educators and the general public
 
 ## Architecture Overview
+
+![da5e246a759df3ae49cc41cc0f036b5](https://github.com/user-attachments/assets/f2299921-da58-42e4-8a96-9867af20e3c3)
+Picture description: The core system architecture flow chart of the project completely presents the entire process from application layer interaction, back-end scheduling, AI detection and education interpretation dual engines, to the final output of risk results and educational content. It clearly shows the educational closed-loop design of "detection-interpretation-learning-action" and is a visual presentation of the core logic of the project's AI + education.
 
 ### Product Layer
 
@@ -44,6 +55,19 @@ The intended product layer is an education-oriented interface that helps users:
 - understand common Web3 risks
 - learn core concepts in plain language
 - treat AI analysis as a learning aid, not a guarantee of safety
+
+
+<img width="1624" height="780" alt="fedf94f9a4713ceeef1f6b3c8e205ee" src="https://github.com/user-attachments/assets/e6e73359-03de-4243-bb31-b73e28d42d28" />
+Image description: The educational explanation details page of risk-free scan results uses a standardized three-stage teaching structure of "What it means/Why it matters/What you should learn" to convey rigorous safety awareness to users even if there is no risk detection, completing the educational output of safety concepts.
+
+
+<img width="1628" height="784" alt="cc31c601739ad160ae6a76a4f63dbf8" src="https://github.com/user-attachments/assets/1cd3f41b-a2b2-4b19-a4cb-ca8dc890a476" />
+Picture description: The risk-free scan results overview interface simultaneously displays basic scan information and learning guidance portals, achieving a seamless connection between technical test results and educational content, and guiding users to establish correct security assessment habits.
+
+
+<img width="1952" height="918" alt="2d05ba4e8e540033034897b3c6c48be" src="https://github.com/user-attachments/assets/4bde4abc-a18d-46cb-abbd-48dea872b7a0" />
+Image description: The high-risk scan results overview interface uses highly-recognizable visual prompts to enhance users' risk perception, coupled with clear learning guidance portals to encourage users to learn in-depth security knowledge about corresponding vulnerabilities, turning risk detection into teaching opportunities.
+
 
 ### Analysis Layer
 
