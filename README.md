@@ -2,6 +2,12 @@
 
 This repository contains the working files, scanning pipeline, dataset artifacts, and experiment scripts for an AI+Education project focused on Web3 safety learning and public awareness.
 
+<div align="center">
+  
+  [![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
+  
+</div>
+
 The project itself is **not named GPTScan**.  
 Instead, it uses the GPTScan pipeline as part of the backend scanning workflow for smart contract analysis.
 
@@ -18,11 +24,7 @@ In practical terms, this repo combines:
   <em>Picture description: The homepage of the project platform fully presents the core educational concept of "Check the Contract, Learn the Risk". It includes a zero-threshold contract upload analysis portal, a Hong Kong local Web3 risk data dashboard, and a comprehensive Web3 security learning interactive portal for the public.</em>
 </div>
 
-<div align="center">
-  
-  [![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
-  
-</div>
+
 
 ## Project Positioning
 
