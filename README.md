@@ -1,20 +1,4 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
-<div align="center">
-
-
-[![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
-
-> **Full walkthrough**: AI-driven safety analysis for Web3 transactions & smart contracts
-
-</div>
-
-<div align="center">
-  <img style="width: 60%; height: auto; border-radius: 8px;" 
-       alt="平台首页" 
-       src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />
-  <br>
-  <em>Picture description: The homepage of the project platform fully presents the core educational concept of "Check the Contract, Learn the Risk". It includes a zero-threshold contract upload analysis portal, a Hong Kong local Web3 risk data dashboard, and a comprehensive Web3 security learning interactive portal for the public.</em>
-</div>
 
 This repository contains the working files, scanning pipeline, dataset artifacts, and experiment scripts for an AI+Education project focused on Web3 safety learning and public awareness.
 
@@ -25,6 +9,18 @@ In practical terms, this repo combines:
 - an education-oriented Web3 safety project concept
 - a smart contract scanning backend built on top of GPTScan-related components
 - local dataset experiments for validating scan coverage and result quality
+
+<div align="center">
+  <img style="width: 60%; height: auto; border-radius: 8px;" 
+       alt="平台首页" 
+       src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />
+  <br>
+  <em>Picture description: The homepage of the project platform fully presents the core educational concept of "Check the Contract, Learn the Risk". It includes a zero-threshold contract upload analysis portal, a Hong Kong local Web3 risk data dashboard, and a comprehensive Web3 security learning interactive portal for the public.</em>
+</div>
+
+<div align="center">
+[![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
+</div>
 
 ## Project Positioning
 
