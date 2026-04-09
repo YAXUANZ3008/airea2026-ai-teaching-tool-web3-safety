@@ -1,14 +1,7 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
 
-<p align="center">
-  <a href="https://youtu.be/lC42QAteeN8">
-    <img src="https://img.youtube.com/vi/lC42QAteeN8/maxresdefault.jpg" alt="AI-Powered Web3 Safety Learning Assistant - Full Walkthrough" width="80%">
-  </a>
-</p>
-
-<p align="center">
-  <b>🎥 Click the thumbnail to watch the demo on YouTube | AI-Powered Web3 Safety Learning Assistant</b>
-</p>
+[![AI-Powered Web3 Safety Learning Assistant - Full Walkthrough](https://img.youtube.com/vi/lC42QAteeN8/0.jpg)](https://youtu.be/lC42QAteeN8)
+*Click the thumbnail to watch the demo on YouTube*
 
 <div align="center">
   <img style="width: 60%; height: auto; border-radius: 8px;" 
