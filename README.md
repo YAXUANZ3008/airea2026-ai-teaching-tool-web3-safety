@@ -1,6 +1,6 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
 
-<img width="2110" height="1338" alt="9de10bec504c964e991b28f12ec60e9" src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />
+<img width="2110" height="1338" alt="9de10bec504c964e991b28f12ec60e9" src="https://github.com/user-attachments/assets/adf946d8-18ac-4373-97b3-b366aa165ea9" />(homepage.png =50%)
 Picture description: The homepage of the project platform fully presents the core educational concept of "check contracts and understand risks", including a zero-trade contract upload analysis portal, a Hong Kong local Web3 risk data dashboard, and a comprehensive Web3 security learning interactive portal for the public.
 
 This repository contains the working files, scanning pipeline, dataset artifacts, and experiment scripts for an AI+Education project focused on Web3 safety learning and public awareness.
@@ -45,7 +45,9 @@ Picture description: The Web3 Safety Education Hub page displays hierarchical ed
 
 ## Architecture Overview
 
-![da5e246a759df3ae49cc41cc0f036b5](https://github.com/user-attachments/assets/f2299921-da58-42e4-8a96-9867af20e3c3)
+<div align="center">
+  ![da5e246a759df3ae49cc41cc0f036b5](https://github.com/user-attachments/assets/f2299921-da58-42e4-8a96-9867af20e3c3)
+</div>
 Picture description: The core system architecture flow chart of the project completely presents the entire process from application layer interaction, back-end scheduling, AI detection and education interpretation dual engines, to the final output of risk results and educational content. It clearly shows the educational closed-loop design of "detection-interpretation-learning-action" and is a visual presentation of the core logic of the project's AI + education.
 
 ### Product Layer
