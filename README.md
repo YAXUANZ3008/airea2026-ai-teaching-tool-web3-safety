@@ -12,6 +12,8 @@ In practical terms, this repo combines:
 
 ## Project Positioning
 
+<img width="2543" height="1283" alt="image" src="https://github.com/user-attachments/assets/d91f0293-2797-48df-9a3c-47b67c449c40" />
+
 This project was built as an **AI + Education prototype** rather than a production platform.
 
 Its core idea is:
