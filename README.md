@@ -1,7 +1,13 @@
 # AI-Powered Web3 Safety Learning Assistant for Education and Public Awareness
+<div align="center">
 
-[![AI-Powered Web3 Safety Learning Assistant - Full Walkthrough](https://img.youtube.com/vi/lC42QAteeN8/0.jpg)](https://youtu.be/lC42QAteeN8)
-*Click the thumbnail to watch the demo on YouTube*
+# 🚀 AI-Powered Web3 Safety Learning Assistant
+
+[![Watch Demo Video](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lC42QAteeN8)
+
+> **Full walkthrough**: AI-driven safety analysis for Web3 transactions & smart contracts
+
+</div>
 
 <div align="center">
   <img style="width: 60%; height: auto; border-radius: 8px;" 
