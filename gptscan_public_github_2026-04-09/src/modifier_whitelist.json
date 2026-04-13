@@ -1,7 +1,0 @@
-[
-    "onlyOwner",
-    "onlyRouter",
-    "onlyKeeper",
-    "onlyVault",
-    "onlyDeployer"
-]
