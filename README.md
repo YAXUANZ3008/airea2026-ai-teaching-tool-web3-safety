@@ -259,10 +259,10 @@ It should **not** be interpreted as:
 - “guaranteed safe”
 
 ## Dataset Source
+
 All experimental datasets in this workspace are derived from the official GPTScan-Web3Bugs benchmark.
 
-Official dataset repository:  
-Dataset Source: https://github.com/MetaTrustLabs/GPTScan-Web3Bugs
+Official dataset repository:  https://github.com/MetaTrustLabs/GPTScan-Web3Bugs
 
 ## Practical Notes
 
