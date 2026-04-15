@@ -262,7 +262,7 @@ It should **not** be interpreted as:
 All experimental datasets in this workspace are derived from the official GPTScan-Web3Bugs benchmark.
 
 Official dataset repository:  
-Dataset Source: [GPTScan-Web3Bugs](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FMetaTrustLabs%2FGPTScan-Web3Bugs&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+Dataset Source: https://github.com/MetaTrustLabs/GPTScan-Web3Bugs
 
 ## Practical Notes
 
