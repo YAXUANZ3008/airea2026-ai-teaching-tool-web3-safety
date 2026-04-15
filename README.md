@@ -258,27 +258,11 @@ Common fields in `summary.csv`:
 It should **not** be interpreted as:
 - “guaranteed safe”
 
-## Local Dataset Artifacts
+## Dataset Source
+All experimental datasets in this workspace are derived from the official GPTScan-Web3Bugs benchmark.
 
-This workspace includes local benchmark inputs and outputs under:
-
-- [Dataset&Result](/Users/zhishixuebao/GPTScan/Dataset&Result)
-
-Important extracted sample sets:
-- successful projects with findings:
-  - [Web3Bugs-main_success_with_output_source_only](/Users/zhishixuebao/GPTScan/Dataset&Result/Web3Bugs-main_success_with_output_source_only)
-- successful projects without findings:
-  - [Web3Bugs-main_success_without_output_source_only](/Users/zhishixuebao/GPTScan/Dataset&Result/Web3Bugs-main_success_without_output_source_only)
-
-These are source-only project copies plus corresponding result files for review, demo preparation, and analysis.
-
-## Repository Structure
-
-- [src](/Users/zhishixuebao/GPTScan/src): scanning pipeline, dependency handling, version resolution, execution logic
-- [tests](/Users/zhishixuebao/GPTScan/tests): workflow regression tests
-- [scan_one_project.py](/Users/zhishixuebao/GPTScan/scan_one_project.py): single-project scan entry
-- [batch_scan_demo.py](/Users/zhishixuebao/GPTScan/batch_scan_demo.py): batch scan entry
-- [rerun_failed_results.py](/Users/zhishixuebao/GPTScan/rerun_failed_results.py): failed-project rerun tool
+Official dataset repository:  
+[https://github.com/MetaTrustLabs/GPTScan-Web3Bugs](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FMetaTrustLabs%2FGPTScan-Web3Bugs&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
 ## Practical Notes
 
